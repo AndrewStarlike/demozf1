@@ -1,0 +1,3 @@
+[02-Nov-2014 23:44:40 Europe/Bucharest] PHP Warning:  Illegal offset type in isset or empty in /var/www/demozf1/library/Zend/Form.php on line 1785
+[02-Nov-2014 23:53:25 Europe/Bucharest] PHP Notice:  Undefined variable: mail in /var/www/demozf1/application/forms/Album.php on line 37
+[02-Nov-2014 23:53:25 Europe/Bucharest] PHP Fatal error:  Call to a member function setLabel() on a non-object in /var/www/demozf1/application/forms/Album.php on line 37
